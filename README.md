@@ -7,6 +7,6 @@
 <details>
 	<summary><b> Github Stats 📊 </b></summary>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=frankmarazita&count_private=true&hide=stars,issues,contribs&hide_border=true&custom_title=Frank's%20GitHub%20Stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankmarazita&layout=compact&hide=C&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=frankmarazita&count_private=true&hide=stars,issues,contribs&hide_border=true&hide_rank=true&custom_title=Frank's%20GitHub%20Stats)
 </details>
