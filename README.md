@@ -12,4 +12,4 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=frankmarazita&count_private=true&hide=stars,issues,contribs&hide_border=true&hide_rank=true&custom_title=Frank's%20GitHub%20Stats)
 </details>
 
-<img src="https://img.shields.io/badge/dynamic/json?color=green&label=Currently%20Learning&query=learning&url=https%3A%2F%2Fraw.githubusercontent.com%2Ffrankmarazita%2Fworking-on%2Fmaster%2Fatm.json" />
+<img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Currently%20Learning&query=learning&url=https%3A%2F%2Fraw.githubusercontent.com%2Ffrankmarazita%2Fworking-on%2Fmaster%2Fatm.json" />
