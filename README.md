@@ -1,4 +1,4 @@
-### Greetings Traveler 🛸
+### Greetings Traveller 🛸
 
 - 🦘 Software Engineer from Melbourne, Australia
 - 🍳 I’m currently cooking up some cool projects!
